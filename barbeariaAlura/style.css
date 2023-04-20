@@ -2,54 +2,51 @@ body {
     margin: 0;
 }
 
-
 .titulo-principal {
     justify-content: left;
     font-size: 25px;
     margin: 10px 0 10px 15px;
 }
 
-#banner{
+#banner {
     width: 100%;
 }
 
-
-.principal{
+.principal {
     background: #CCCCCC;
     padding: 30px;
 
 }
 
-.titulo-centralizado{
+.titulo-centralizado {
     text-align: center;
 }
 
 p {
-	text-align: center;
+    text-align: center;
 }
 
 em strong {
-	color: #FF0000;
+    color: #FF0000;
 }
 
-.beneficios{
+.beneficios {
     background: #ffffff;
     padding: 20px;
 
 }
 
-.itens{
+.itens {
     font-style: italic;
 }
 
-ul{
-    display: inline-block;    
+ul {
+    display: inline-block;
     vertical-align: top;
     width: 20%;
     margin-right: 15%;
 }
 
-.imagemBeneficios{
+.imagemBeneficios {
     width: 50%;
 }
-
